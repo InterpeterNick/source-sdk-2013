@@ -1,10 +1,8 @@
 # Source SDK 2013
 
-Source code for Source SDK 2013.
+This is my fork of Source SDK 2013 Multiplayer (TF2 Branch).
 
 Contains the game code for Half-Life 2, HL2: DM and TF2.
-
-**Now including Team Fortress 2! ✨**
 
 ## Build instructions
 
